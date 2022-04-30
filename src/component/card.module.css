@@ -23,6 +23,7 @@
     rgba(0, 0, 0, 0) 100%
   );
   padding: 2rem;
+  border-radius: 15px;
 }
 .main img {
   width: 225px;
